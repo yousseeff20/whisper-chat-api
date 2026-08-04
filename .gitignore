@@ -1,0 +1,145 @@
+# ============================================
+# Visual Studio & .NET
+# ============================================
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]est[Rr]esults/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+## User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+## Build logs
+*.log
+msbuild*.wrn
+msbuild*.err
+
+## Visual Studio cache/options
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## Visual Studio cache files
+*.VisualState.xml
+TestResult.xml
+[Tt]est[Rr]esult*/
+
+## NuGet
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nupkg
+*.snupkg
+**/[Pp]ackages/repositories.config
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## .NET Core
+project.nuget.cache
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## StyleCop
+StyleCopReport.xml
+
+## Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.cache
+
+## Publish profiles
+*.pubxml
+!**/[Pp]ublish[Pp]rofiles/*.pubxml
+*.publishproj
+
+## NuGet v3 (.NET project.json)
+*.nuget.props
+*.nuget.targets
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+# ============================================
+# Environment & Secrets
+# ============================================
+
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# ============================================
+# OS Generated Files
+# ============================================
+
+## Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
